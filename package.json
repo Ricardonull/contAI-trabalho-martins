@@ -1,0 +1,24 @@
+{
+  "name": "Contaí",
+  "version": "1.0.0",
+  "description": "Landing page do Contaí (assistente financeiro com IA no WhatsApp para autônomos e MEIs) com atendente virtual Taí (Groq)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LPeter-nmPITAccount/contAI_trabalho_martins"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/LPeter-nmPITAccount/contAI_trabalho_martins/issues"
+  },
+  "homepage": "https://github.com/LPeter-nmPITAccount/contAI_trabalho_martins#readme",
+  "devDependencies": {
+    "express": "^5.3.0"
+  }
+}
